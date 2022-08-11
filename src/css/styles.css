@@ -316,6 +316,7 @@ body .full-width {
     width: 100%;
     font-size: 2rem;
     outline: none;
+    overflow: hidden;
 }
 
 .form-group input:focus,
@@ -347,7 +348,7 @@ body .full-width {
     text-align: center;
     align-items: center;
     justify-content: center;
-    font-size: 4rem;
+    font-size: 2rem;
     height: 100%;
 }
 

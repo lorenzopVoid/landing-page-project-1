@@ -151,5 +151,18 @@
         display: none;
     }
 
-
+    textarea {
+        resize: none;
+        height: 80px;
+        overflow: auto;
+        box-sizing: border-box;
+    }
+}
+@media (min-width: 801px) and (max-width:1100px) {
+    textarea {
+        resize: none;
+        height: 80px;
+        overflow: auto;
+        box-sizing: border-box;
+    }
 }
